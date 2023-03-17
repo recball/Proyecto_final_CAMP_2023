@@ -1,6 +1,5 @@
-##########################################################################
+
 Objetivo del trabajo
-#########################################################################
 
 Efectuar la búsqueda asistida por computadora de de inhibidores de la proteina CDK2, utilizando herramientas como el dcoking y la dinamica molecular, con un postprocesamiento utilizando herramientas de python.
 La descripcion de lo hecho hasta el momento corresponde a la parte inicial del proyecto que consiste en la validacion del programa de docking a utilizar
